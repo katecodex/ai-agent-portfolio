@@ -1,6 +1,3 @@
-# ai-agent-portfolio
-This is a portfolio of AI agents that have been created and customized by me.
-
 # 🧠 AI Agent Portfolio
 
 Welcome to my collection of AI-powered solutions designed to streamline workflows, enhance productivity, and solve real-world business challenges. As a Customer Success Analyst with a background in logistics and operations, I've developed these agents to bridge the gap between complex processes and practical automation.
